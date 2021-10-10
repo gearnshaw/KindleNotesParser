@@ -1,0 +1,27 @@
+#
+#import-{{timestamp}}
+#needs-header
+#.slipbox/literature #needs-perm
+
+### Book
+{{bookLink}}
+Page: {{page}}
+Location: {{location}}
+
+### Note
+
+{{noteText}}
+
+> {{highlightedText}}
+
+### Section
+
+{{sectionHeading}}
+
+### Footnotes on the source
+
+[{{noteDateStamp}}]
+
+---
+## Other References
+References to [use `bs` shortcut in bear to create search link]
